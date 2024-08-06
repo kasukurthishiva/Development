@@ -9,6 +9,9 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <p style="color: royalblue;">This is a sample webpage created by git team</p>
+    <h1 style="color: royalblue;">This is a sample webpage created by git team</h1>
+     <ol>
+        <li>Ashraf sulthana</li>
+    </ol>
 </body>
 </html>
